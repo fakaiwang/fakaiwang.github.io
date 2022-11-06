@@ -26,12 +26,18 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 📖 Educations
+- *2016.09 - 2022.12 (expected)*, Ph.D. Computer Engineering, University of Maryland. 
+- *2016.09 - 2020.01*, M.Sc. Computer Engineering, University of Maryland. 
+- *2009.09 - 2013.06*, B.Eng. Electrical Computer Engineering, Zhejiang University. 
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under submission</div><img src='images/liver.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT]
+Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT
 
 **Fakai Wang**, Chi-Tung Cheng, Chien-Wei Peng, Chien-Hung Liao, Min Wu, Le Lu, and Ling Zhang
 
@@ -54,14 +60,13 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Automatic_Vertebra_Localization_and_Identification_in_CT_by_Spine_Rectification_CVPR_2021_paper.pdf)
 
 **Fakai Wang**, Kang Zheng, Le Lu, Jing Xiao, Min Wu, Shun Miao
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI PRIME workshop</div><img src='images/chestbmdmiccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Opportunistic Screening of Osteoporosis Using Plain Film Chest X-ray](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_13)
+
 **Fakai Wang**, Kang Zheng, Yirui Wang, Xiaoyun Zhou, Le Lu, Jing Xiao, Min Wu, Chang-Fu Kuo, Shun Miao 
 </div>
 </div>
@@ -69,6 +74,7 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master thesis</div><img src='images/master.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Joint Space Narrowing Classification based on Hand X-Ray Image](https://drum.lib.umd.edu/handle/1903/26196)
+
 **Fakai Wang** 
 </div>
 </div>
@@ -85,11 +91,6 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 - *2013* Outstanding Graduates, Zhejiang University.
 - *2013* Extraordinary Member, the Edison Class, ECE, Zhejiang University.
 - *2012* Second Prize, National Final of Freescale Intelligent Car Racing.
-
-# 📖 Educations
-- *2016.09 - 2022.12 (expected)*, Ph.D. Computer Engineering, University of Maryland. 
-- *2016.09 - 2020.01*, M.Sc. Computer Engineering, University of Maryland. 
-- *2009.09 - 2013.06*, B.Eng. Electrical Computer Engineering, Zhejiang University. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
