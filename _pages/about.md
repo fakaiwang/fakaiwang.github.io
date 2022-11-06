@@ -54,14 +54,31 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Automatic_Vertebra_Localization_and_Identification_in_CT_by_Spine_Rectification_CVPR_2021_paper.pdf)
 
 **Fakai Wang**, Kang Zheng, Le Lu, Jing Xiao, Min Wu, Shun Miao
-
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI PRIME workshop</div><img src='images/chestbmdmiccai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Opportunistic Screening of Osteoporosis Using Plain Film Chest X-ray](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_13)
+**Fakai Wang**, Kang Zheng, Yirui Wang, Xiaoyun Zhou, Le Lu, Jing Xiao, Min Wu, Chang-Fu Kuo, Shun Miao 
+</div>
+</div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master thesis</div><img src='images/master.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Joint Space Narrowing Classification based on Hand X-Ray Image](https://drum.lib.umd.edu/handle/1903/26196)
+**Fakai Wang** 
+</div>
+</div>
+
+- [Semi-supervised Learning for Bone Mineral Density Estimation in Hip X-Ray Images](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_4), Kang Zheng, Yirui Wang, Xiao-Yun Zhou, **Fakai Wang**, Le Lu, Chihung Lin, Lingyun Huang, Guotong Xie, Jing Xiao, Chang-Fu Kuo, Shun Miao, **MICCAI 2021**
+
+- [Scalable Semi-supervised Landmark Localization for X-ray Images Using Few-Shot Deep Adaptive Graph](https://link.springer.com/chapter/10.1007/978-3-030-88210-5_13), Xiao-Yun Zhou, Bolin Lai, Weijian Li, Yirui Wang, Kang Zheng, **Fakai Wang**, Chihung Lin, Le Lu, Lingyun Huang, Mei Han, Guotong Xie, Jing Xiao, Kuo Chang-Fu, Adam Harrison, Shun Miao , **MICCAI workshop 2021**
+
+- [Automated bone mineral density prediction and fracture risk assessment using plain radiographs via deep learning](https://www.nature.com/articles/s41467-021-25779-x), Chen-I Hsieh, Kang Zheng, Chihung Lin, Ling Mei, Le Lu, Weijian Li, Fang-Ping Chen, Yirui Wang, Xiaoyun Zhou, **Fakai Wang**, Guotong Xie, Jing Xiao, Shun Miao, Chang-Fu Kuo, **Nature Communications Sept 2021**
+
 
 # 🎖 Honors and Awards
 - *2022.06* [Ann G. Wylie Dissertation Fellowship](https://gradschool.umd.edu/funding/student-fellowships-awards/dissertation-fellowship), University of Maryland. 
