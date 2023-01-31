@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest lies in Machine Learning and Computer Vision, with real-world deep learning applications. Proficient in Python/Java/C++/C/Linux/PyTorch, I have extended experience with data collection labeling, transfer learning, multi-task learning, semi-supervised learning, data visualization, statistical analysis, high-performance computing, distributed system, network programming, graphics, GUI programming, Web design, operating system, hardware/low-level programming, software delivery, technical documentation, professional communication. I have designed/implemented classification/detection/segmentation models to solve ML/CV problems, with top conference/journal publications. With a solid computer science/engineering background and a good collaborative personality, I’m open to new ML/DL/CV challenges, and always eager to learn.
+My interest lies in Machine Learning and Computer Vision, with real-world applications. Proficient in Python/C++/Linux/PyTorch, I have extended experience with data collection/labeling, transfer learning, semi-supervised learning, data visualization, statistical analysis, high performance computing, distributed system, network programming, 3D graphics, GUI programming, Web design, operating system, hardware/low-level programming, software delivery. I have designed computer vision models to solve medical imaging problems, with top conference/journal publications. With a solid theory/engineering background and a good collaborative personality, I'm open to new computing challenges, and always eager to learn. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -27,19 +27,19 @@ My research interest lies in Machine Learning and Computer Vision, with real-wor
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2016.09 - 2022.12 (expected)*, Ph.D. Computer Engineering, University of Maryland. 
+- *2016.09 - 2023.5 (expected)*, Ph.D. Computer Engineering, University of Maryland. 
 - *2016.09 - 2020.01*, M.Sc. Computer Engineering, University of Maryland. 
 - *2009.09 - 2013.06*, B.Eng. Electrical Computer Engineering, Zhejiang University. 
 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under submission</div><img src='images/liver.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE Transactions on Medical Imaging</div><img src='images/liver.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT
+Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT, IEEE Transactions on Medical Imaging (submitted), Jan 2023
 
-**Fakai Wang**, Chi-Tung Cheng, Chien-Wei Peng, Chien-Hung Liao, Min Wu, Le Lu, and Ling Zhang
+**Fakai Wang**, Chi-Tung Cheng, Chien-Wei Peng, Ke Yan, Chien-Hung Liao, Min Wu, Le Lu, and Ling Zhang
 
 </div>
 </div>
@@ -47,7 +47,7 @@ Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Medical Imaging</div><img src='images/chestbmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lumbar Bone Mineral Density Estimation from Chest X-ray Images: Anatomy-aware Attentive Multi-ROI Modeling](https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9903460)
+[Lumbar Bone Mineral Density Estimation from Chest X-ray Images: Anatomy-aware Attentive Multi-ROI Modeling](https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9903460), IEEE Transactions on Medical Imaging, Sept 2022
 
 **Fakai Wang**, Kang Zheng, Le Lu, Jing Xiao, Min Wu, Chang-Fu Kuo, Shun Miao
 
