@@ -37,7 +37,7 @@ My interest lies in Machine Learning and Computer Vision, with real-world applic
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE Transactions on Medical Imaging</div><img src='images/liver.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT, IEEE Transactions on Medical Imaging (submitted), Jan 2023
+Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT, IEEE Transactions on Medical Imaging, submitted Jan 2023
 
 **Fakai Wang**, Chi-Tung Cheng, Chien-Wei Peng, Ke Yan, Chien-Hung Liao, Min Wu, Le Lu, and Ling Zhang
 
@@ -47,7 +47,7 @@ Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Medical Imaging</div><img src='images/chestbmd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lumbar Bone Mineral Density Estimation from Chest X-ray Images: Anatomy-aware Attentive Multi-ROI Modeling](https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9903460), IEEE Transactions on Medical Imaging, Sept 2022
+[Lumbar Bone Mineral Density Estimation from Chest X-ray Images: Anatomy-aware Attentive Multi-ROI Modeling](https://ieeexplore-ieee-org.proxy-um.researchport.umd.edu/document/9903460), IEEE Transactions on Medical Imaging, published Sept 2022
 
 **Fakai Wang**, Kang Zheng, Le Lu, Jing Xiao, Min Wu, Chang-Fu Kuo, Shun Miao
 
