@@ -57,7 +57,7 @@ Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/cvpr2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Automatic_Vertebra_Localization_and_Identification_in_CT_by_Spine_Rectification_CVPR_2021_paper.pdf)
+[Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Automatic_Vertebra_Localization_and_Identification_in_CT_by_Spine_Rectification_CVPR_2021_paper.pdf), CVPR 2021
 
 **Fakai Wang**, Kang Zheng, Le Lu, Jing Xiao, Min Wu, Shun Miao
 </div>
@@ -65,7 +65,7 @@ Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor D
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI PRIME workshop</div><img src='images/chestbmdmiccai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Opportunistic Screening of Osteoporosis Using Plain Film Chest X-ray](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_13)
+[Opportunistic Screening of Osteoporosis Using Plain Film Chest X-ray](https://link.springer.com/chapter/10.1007/978-3-030-87602-9_13), MICCAI PRIME 2021
 
 **Fakai Wang**, Kang Zheng, Yirui Wang, Xiaoyun Zhou, Le Lu, Jing Xiao, Min Wu, Chang-Fu Kuo, Shun Miao 
 </div>
@@ -73,7 +73,7 @@ Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor D
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master thesis</div><img src='images/master.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Joint Space Narrowing Classification based on Hand X-Ray Image](https://drum.lib.umd.edu/handle/1903/26196)
+[Joint Space Narrowing Classification based on Hand X-Ray Image](https://drum.lib.umd.edu/handle/1903/26196), Master thesis 2020
 
 **Fakai Wang** 
 </div>
