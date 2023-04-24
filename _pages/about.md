@@ -34,10 +34,10 @@ My interest lies in Machine Learning and Computer Vision, with real-world applic
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to IEEE Transactions on Medical Imaging</div><img src='images/liver.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under submission to IEEE Journal of Biomedical And Health Informatics</div><img src='images/organs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Multi-sensitivity Segmentation with Context-aware Augmentation for Liver Tumor Detection in CT, IEEE Transactions on Medical Imaging, submitted Jan 2023
+MSLS: Multi-Sensitivity Segmentation and Lesion-Shuffle Training for Liver Tumor Detection, IEEE Journal of Biomedical And Health Informatics, Under submission
 
 **Fakai Wang**, Chi-Tung Cheng, Chien-Wei Peng, Ke Yan, Chien-Hung Liao, Min Wu, Le Lu, and Ling Zhang
 
