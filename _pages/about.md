@@ -27,7 +27,7 @@ My interest lies in Machine Learning and Computer Vision, with real-world applic
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2016.09 - 2023.5 (expected)*, Ph.D. Computer Engineering, University of Maryland. 
+- *2016.09 - 2023.05, Ph.D. Computer Engineering, University of Maryland. 
 - *2016.09 - 2020.01*, M.Sc. Computer Engineering, University of Maryland. 
 - *2009.09 - 2013.06*, B.Eng. Electrical Computer Engineering, Zhejiang University. 
 
